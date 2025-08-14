@@ -212,7 +212,7 @@ body {
 /* ==== Call to Action ==== */
 .cta {
     padding: 80px 0;
-    background-color: var(--pure-white);
+    background-color: var(--light-gray);
 }
 
 /* ==== Footer ==== */
@@ -298,4 +298,12 @@ body {
 .fade-in {
     opacity: 1 !important;
     transform: translateY(0) !important;
+}
+
+.presentation {
+    padding-bottom: 60px;
+}
+
+.intro-video {
+    padding-bottom: 60px;
 }
